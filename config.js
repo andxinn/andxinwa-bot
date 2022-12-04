@@ -1,6 +1,7 @@
 /**
    * Create By Dika Ardnt.
    * Recode By Naze Dev && Papah-Chan
+   *Devaloper : Andxin
    * Contact Me on wa.me/6282287219167
    * Follow https://github.com/FahriAdison
 */
@@ -19,11 +20,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
-global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.owner = ['6287710240822']
+global.ownernomer = "6287710240822"
+global.premium = ['6287710240822']
+global.packname = 'Sticker By Andxin'
+global.author = 'Andxinbot'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,15 +60,15 @@ global.thumb = fs.readFileSync('./media/image/papah.jpg')
 global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
-global.mygit = 'https://github.com/FahriAdison'
-global.myyt = 'https://bit.ly/Papah-Chan'
+global.mygit = 'https://github.com/andxinn'
+global.myyt = 'https://bit.ly/tyyuyy'
 global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'ANDXIN BOT'
+global.akulaku = 'Bot By Andxin'
+global.ytname = 'YT Gak Punya' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
